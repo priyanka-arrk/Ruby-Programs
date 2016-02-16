@@ -1,6 +1,6 @@
 =begin
  Program for performing operations on employee details
-  Author: Priyanka Patil
+ Author: Priyanka Patil
  Date Created: 05/02/2016
 =end
 class Employee
